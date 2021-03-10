@@ -1,0 +1,1 @@
+This is Andre Rauch's first git project!
